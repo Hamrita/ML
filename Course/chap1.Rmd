@@ -61,3 +61,21 @@ Dans le cadre de l'apprentissage non supervisé (unsupervised learning), les don
 L'apprentissage par renforcement (Deep Learning) désigne l'ensemble des méthodes qui permettent à un agent d'apprendre à choisir quelle action prendre, et ceci de manière autonome.
 
 L'algorithme interagit avec son environnement en réalisant des actions et en apprenant de ces erreurs et sucés.
+
+# Points clefs
+
+- Un algorithme de machine learning est un algorithme qui apprend un modèle à partir d'exemples, par le biais d'un problème d'optimisation.
+
+- On utilise le machine learning lorsqu'il est difficile ou impossible de définir les instructions explicites à donner à un ordinateur pour résoudre un problème, mais que l'on dispose de nombreux exemples illustratifs.
+
+- Les algorithmes de machine learning peuvent être divisés selon la nature du problème qu'ils cherchent
+à résoudre, en apprentissage supervisé, non supervisé, et par renforcement.
+
+# Logiciel et librairies
+
+Dans ce cours, nous utiliserons le logiciel R pour illustrer des cas pratiques du machine learning. 
+
+Il existe plusieurs librairies (packages) pour l'implémentation du machine learning;
+
+`r "caret"`, `r "randomForest"`, `r "e1071"`, `r "mlr"`, `r "nnet"`, `r "rnn"` \ldots
+

@@ -15,3 +15,4 @@ fumeur = 1)
 (northeast = 0, northwest = 1, southeast = 2,
 southwest = 3)
 8. charges: Frais médicaux individuels facturés par l'assurance maladie
+

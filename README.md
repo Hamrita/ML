@@ -16,3 +16,5 @@ fumeur = 1)
 southwest = 3)
 8. charges: Frais médicaux individuels facturés par l'assurance maladie
 
+Liens utiles:
+[Machine learning compilation](https://f0nzie.github.io/machine_learning_compilation/tuning-hyperparameters-in-a-neural-network.html)
